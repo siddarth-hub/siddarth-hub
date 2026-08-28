@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Data Analyst (Fresher) based in Hyderabad, India — actively looking for DA roles in BFSI, fintech, and e-commerce<br>🛠️ Turning messy, real-world data into decisions using SQL, Python, and Power BI<br>📊 Data projects: Olist Customer Analytics (CLV, retention) · Supply Chain Performance Dashboard (SCMS data)<br>
+🎯 Data Analyst (Fresher) based in Hyderabad, India — actively looking for DA roles in BFSI, fintech, and e-commerce<br>🛠️ Turning messy, real-world data into decisions using SQL, Python, and Power BI<br>📊 Data projects: Olist Customer Analytics (CLV, retention) · Supply Chain Performance Dashboard (SCMS data) · E-Commerce SQL Business Analytics (70 queries, PostgreSQL)<br>
 🤖 Also built: F1 Race Intelligence (FastF1 + pandas) · AI PostgreSQL Analytics Assistant (NL-to-SQL)<br>🧹 I work with real, messy datasets — not pre-cleaned ones — and document every cleaning decision<br>🏎️ Side interest: F1 — fascinated by how much of it comes down to data (tyre deg, pit strategy)<br>📄 Google Data Analytics Professional Certificate | HackerRank SQL (Advanced)
 
 
